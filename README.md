@@ -150,8 +150,11 @@ plt.gca().invert_yaxis()  # Invert y-axis to show the highest on top
 plt.tight_layout()
 plt.show()
 ```
-Here is a sample visualization showing the average danceability by artist:
-![Average Danceability by Artist](https://github.com/osu/Spotify-Top-Songs-2021-Data-Analysis/blob/main/Graphs/Average_Danceability_Bar%20Chart_by_artist.png?raw=true)
+Here is a sample visualization showing the Average Danceability by Artist:
+![Average Danceability by Artist](https://github.com/osu/Spotify-Top-Songs-2021-Data-Analysis/blob/main/Graphs/Average%20Danceability%20Bar%20Chart%20by%20artist.png?raw=true)
+
+Here is a sample visualization showing the Top 10 Artists by Popularity Danceability by Aartist:
+![Average Danceability by Artist](https://github.com/osu/Spotify-Top-Songs-2021-Data-Analysis/blob/main/Graphs/Top%2010%20Artists%20By%20Popularity.png?raw=true)
 
 #### Running the Python Script
 
