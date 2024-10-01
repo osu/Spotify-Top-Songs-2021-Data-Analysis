@@ -41,3 +41,36 @@ Install the necessary Python libraries by running:
 
 ```bash
 pip install pandas matplotlib sqlite3
+```
+or
+```bash
+pip3 install pandas matplotlib sqlite3
+```
+
+Instructions
+
+## Setting Up the SQLite Database First Step
+
+Create the SQLite database using the provided SQL script:
+  ```bash
+  sqlite3 SpotifyDB.db
+  ```
+Run the SQL setup script to create the Spotifydata table and import the data from spotify.csv:
+    ```bash
+    .read spotify_queries.sql
+    ```
+Ensure that the spotify.csv file is correctly imported into the database. You can confirm the import by running:
+```bash
+.tables
+```
+
+## Running SQL Queries Second Step
+
+You can execute various SQL queries in the SpotifyDB.db database to get insights from the dataset. For example:
+
+
+  	
+    
+    
+    
+  
