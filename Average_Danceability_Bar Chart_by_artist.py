@@ -3,7 +3,7 @@ import sqlite3
 import pandas as pd
 
 # Connect to the SQLite database
-conn = sqlite3.connect('SpotifyDB.db')
+conn = sqlite3.connect('../SpotifyDB.db')
 
 # Query to get average danceability by artist
 query = '''
