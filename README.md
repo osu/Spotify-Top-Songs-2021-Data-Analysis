@@ -151,7 +151,7 @@ plt.tight_layout()
 plt.show()
 ```
 Here is a sample visualization showing the average danceability by artist:
-![Average Danceability by Artist](https://github.com/osu/Spotify-Top-Songs-2021-Data-Analysis/blob/main/Average_Danceability_Bar%20Chart_by_artist.png?raw=true)
+![Average Danceability by Artist](https://github.com/osu/Spotify-Top-Songs-2021-Data-Analysis/blob/main/Graphs/Average_Danceability_Bar%20Chart_by_artist.png?raw=true)
 
 #### Running the Python Script
 
