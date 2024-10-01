@@ -31,3 +31,9 @@ The database contains the following tables:
 	1.	Tracks: Holds the raw data for the Spotify top 50 songs.
 	2.	PopularityRanking: Ranks the song keys based on overall popularity.
 	3.	Keys: Stores readable key information for each track (e.g., C Major, A Minor, etc.).
+
+Setup Instructions
+
+	1.	Install SQLite3: Make sure SQLite3 is installed on your system.
+	2.	Import Data: Run the .read spotify_queries.sql command in your SQLite3 CLI to load the queries.
+	3.	Run Queries: Use the SELECT queries as provided in the SQL script to get insights into the dataset.
